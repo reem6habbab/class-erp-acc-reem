@@ -1,0 +1,2 @@
+# class-erp-acc-reem
+ Accounting software is focused solely on a company’s financial activities. An accounting system helps companies manage their accounts payable and accounts receivable, along with their bookkeeping activities. For instance, an accounting system helps with the generation of a trial balance, an integral part of double-entry bookkeeping. Accounting software also helps companies put together financial statements, such as profit and loss reports and balance sheets.
